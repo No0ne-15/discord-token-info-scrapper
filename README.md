@@ -25,8 +25,8 @@ c:\No0ne> "THE USER TOKEN"
 ```
 
 ## Account Infos
-![image](https://gist.github.com/assets/173060008/1e3ac8bc-c9ee-412e-b9e9-351df66598be)
+![image](https://github.com/No0ne-15/discord-token-info-scrapper/assets/173060008/0502188e-e182-4a61-a2a5-bdfe54fe118f)
 
 
 ## Billing Infos
-![image](https://gist.github.com/assets/173060008/e9cca89d-8245-4c9b-a615-7b417dc4319a)
+![image](https://github.com/No0ne-15/discord-token-info-scrapper/assets/173060008/bc1fa69b-3052-4043-ace6-bb75e020241f)
